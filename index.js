@@ -33,6 +33,7 @@ document.addEventListener('DOMContentLoaded', function () {
         <p>has almost completed the</p>
         <h2>${courseName}</h2>
         <p>with legendary perserverance and world-class bad-assery for never giving up</p>
+        <img src="./logo.png" style="width: 250px; height: auto; object-fit: contain;">
         <p>${personalMessage}</p>
         `;
     
